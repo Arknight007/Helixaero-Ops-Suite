@@ -1,7 +1,5 @@
 # HelixAero Ops Suite
 
-![HelixAero Logo](/images/helixaero-logo.png)
-
 > **Innovation in Flight**
 >
 > Bridging the critical gap between Avionic ATC and Maintenance Management Systems with real-time monitoring, predictive analytics, and comprehensive compliance tracking.
@@ -128,3 +126,4 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
